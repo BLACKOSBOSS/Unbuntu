@@ -1,10 +1,10 @@
 # Unbuntu
 # Unbuntu in termux
 # made by: Karim Abdul Rehan 
-# installation
+# installation :-
 # $ apt install git
 # $ git clone https://github.com/BLACKOSBOSS/Unbuntu
-# after installing
+# after installing :-
 # $ cd Unbuntu
 # $ chmod +x install.sh
 # $ sh install.sh
